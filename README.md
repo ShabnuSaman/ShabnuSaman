@@ -1,10 +1,29 @@
-👋 Hi, I’m @ShabnuSaman
-👀 I’m interested in Making Mobile Applications using Flutter
-🌱 I’m currently learning Mobile Applications using Flutter
-💞️ I’m looking to collaborate on Mobile Applications using Flutter
-📫 How to reach me <e-mail: shabnusaman2001@gmail.com> <mob: +971 0589136277 >
+# 👋 Hi, I'm Shabnu Saman  
 
-<!---
-ShabnuSaman/ShabnuSaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Flutter Developer with 2+ years of experience building cross-platform mobile applications for iOS and Android.  
+
+🚀 Currently working as a Flutter Developer at Smartflix Technologies (UAE), delivering scalable, high-performance apps for clients across UAE, KSA, and India.  
+
+👨‍💻 Experienced in:
+- Flutter & Dart
+- RESTful API integration
+- State Management (Bloc, Provider, GetX)
+- Clean Architecture
+- Firebase & SQFlite
+- Responsive UI/UX design
+- CI/CD & Git version control  
+
+📱 Worked on projects in Government Finance, Pollution Control, and Hospitality sectors, focusing on performance, reliability, and user satisfaction.  
+
+🌱 Always learning and improving mobile development skills to build better, scalable applications.  
+
+💞️ Open to collaborating on Flutter-based mobile applications and innovative app ideas.  
+
+📫 Reach me at:  
+✉️ Email: shabnusaman2001@gmail.com  
+📱 Mobile: +971 0589136277  
+📍 Al Karama, Dubai  
+
+🔗 Connect with me on GitHub & LinkedIn  
+
+---
