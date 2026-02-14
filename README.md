@@ -1,55 +1,29 @@
-👋 Hi, I’m Shabnu Saman
+# 👋 Hi, I'm Shabnu Saman  
 
-🚀 Flutter Developer | Cross-Platform Mobile Specialist
+💼 Flutter Developer with 2+ years of experience building cross-platform mobile applications for iOS and Android.  
 
-Passionate Flutter developer with 2+ years of experience crafting high-performance, scalable mobile applications for both iOS and Android. I specialize in building clean, maintainable, and user-focused applications that solve real-world problems.
+🚀 Currently working as a Flutter Developer at Smartflix Technologies (UAE), delivering scalable, high-performance apps for clients across UAE, KSA, and India.  
 
-💼 Currently: Flutter Developer at Smartflix Technologies (UAE)
-Delivering production-ready apps for clients across UAE, KSA, and India.
+👨‍💻 Experienced in:
+- Flutter & Dart
+- RESTful API integration
+- State Management (Bloc, Provider, GetX)
+- Clean Architecture
+- Firebase & SQFlite
+- Responsive UI/UX design
+- CI/CD & Git version control  
 
-💡 What I Bring to the Table
+📱 Worked on projects in Government Finance, Pollution Control, and Hospitality sectors, focusing on performance, reliability, and user satisfaction.  
 
-📱 Cross-platform app development using Flutter & Dart
+🌱 Always learning and improving mobile development skills to build better, scalable applications.  
 
-🔗 RESTful API integration & third-party services
+💞️ Open to collaborating on Flutter-based mobile applications and innovative app ideas.  
 
-🧠 State Management: Bloc | Provider | GetX
+📫 Reach me at:  
+✉️ Email: shabnusaman2001@gmail.com  
+📱 Mobile: +971 0589136277  
+📍 Al Karama, Dubai  
 
-🏗️ Clean Architecture & scalable code structure
+🔗 Connect with me on GitHub & LinkedIn  
 
-🔥 Firebase integration & local storage (SQFlite)
-
-🎨 Responsive & intuitive UI/UX implementation
-
-⚙️ CI/CD pipelines & Git-based version control
-
-🏢 Industry Experience
-
-✔ Government Finance Systems
-✔ Pollution Control Applications
-✔ Hospitality & Service Platforms
-
-Focused on delivering performance, reliability, and seamless user experience.
-
-🌱 Growth Mindset
-
-I continuously explore new tools, patterns, and best practices in mobile development to build better, faster, and more scalable applications.
-
-🤝 Let’s Collaborate
-
-Open to working on:
-
-Flutter-based mobile applications
-
-Startup app ideas
-
-Scalable enterprise solutions
-
-📬 Get in Touch
-
-📧 Email: shabnusaman2001@gmail.com
-
-📱 Phone: +971 0589136277
-📍 Location: Al Karama, Dubai
-
-🔗 Let’s connect on GitHub & LinkedIn
+---
