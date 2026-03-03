@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shabnu Saman  
 
-💼 Flutter Developer with 2+ years of experience building cross-platform mobile applications for iOS and Android.  
+💼 Flutter Developer with 2 years of experience building cross-platform mobile applications for iOS and Android.  
 
 🚀 Currently working as a Flutter Developer at Smartflix Technologies (UAE), delivering scalable, high-performance apps for clients across UAE, KSA, and India.  
 
