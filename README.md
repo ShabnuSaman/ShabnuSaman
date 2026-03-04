@@ -22,10 +22,8 @@
 📫 Reach me at:  
 ✉️ Email: shabnusaman2001@gmail.com  
 📱 Mobile: +971 589136277  
-📍 Al Karama, Dubai  
+📍 Dubai  
 
 🔗 Connect with me on GitHub & LinkedIn  
 
-
----
 
