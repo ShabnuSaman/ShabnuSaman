@@ -1,29 +1,39 @@
-# 👋 Hi, I'm Shabnu Saman  
+👋 Hi, I'm Shabnu Saman
 
-💼 Flutter Developer with 2 years of experience building cross-platform mobile applications for iOS and Android.  
+💼 Flutter Developer with 2+ years of experience building cross-platform mobile applications for iOS and Android.
 
-🚀 Currently working as a Flutter Developer at Smartflix Technologies (UAE), delivering scalable, high-performance apps for clients across UAE, KSA, and India.  
+🚀 Currently working as a Flutter Developer at Smartflix Technologies (UAE), delivering scalable, high-performance apps for clients across UAE, KSA, and India.
 
 👨‍💻 Experienced in:
-- Flutter & Dart
-- RESTful API integration
-- State Management (Bloc, Provider, GetX)
-- Clean Architecture
-- Firebase & SQFlite
-- Responsive UI/UX design
-- CI/CD & Git version control  
 
-📱 Worked on projects in Government Finance, Pollution Control, and Hospitality sectors, focusing on performance, reliability, and user satisfaction.  
+Flutter & Dart
 
-🌱 Always learning and improving mobile development skills to build better, scalable applications.  
+RESTful API Integration
 
-💞️ Open to collaborating on Flutter-based mobile applications and innovative app ideas.  
+State Management (Bloc, Provider, GetX)
 
-📫 Reach me at:  
-✉️ Email: shabnusaman2001@gmail.com  
-📱 Mobile: +971 589136277  
-📍 Dubai  
+Clean Architecture
 
-🔗 Connect with me on GitHub & LinkedIn  
+Firebase & SQFlite
+
+Responsive UI/UX Design
+
+CI/CD & Git Version Control
+
+🌐 Currently expanding my backend development skills by learning the MERN Stack (MongoDB, Express.js, React, Node.js) to build full-stack scalable applications and better integrate mobile apps with modern backend systems.
+
+📱 Worked on projects in Government Finance, Pollution Control, and Hospitality sectors, focusing on performance, reliability, and user satisfaction.
+
+🌱 Always learning and improving mobile and backend development skills to build better, scalable, and production-ready applications.
+
+💞️ Open to collaborating on Flutter-based mobile applications, backend systems, and innovative app ideas.
+
+📫 Reach me at:
+✉️ Email: shabnusaman2001@gmail.com
+
+📱 Mobile: +971 589136277
+📍 Dubai, UAE
+
+🔗 Connect with me on GitHub & LinkedIn
 
 
