@@ -34,6 +34,6 @@ CI/CD & Git Version Control
 📱 Mobile: +971 589136277
 📍 Dubai, UAE
 
-🔗 Connect with me on GitHub & LinkedIn
+🔗 Connect with me on GitHub & LinkedIn    
 
 
