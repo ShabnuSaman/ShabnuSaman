@@ -28,11 +28,11 @@ CI/CD & Git Version Control
 
 💞️ Open to collaborating on Flutter-based mobile applications, backend systems, and innovative app ideas.
 
-📫 Reach me at:
+📫 Get in Touch
 ✉️ Email: shabnusaman2001@gmail.com
-
-📱 Mobile: +971 589136277
-📍 Dubai, UAE
+🔗 LinkedIn: linkedin.com/in/shabnu-saman-0050802b6/
+📱 Phone: +971 58 913 6277
+📍 Location: Dubai, UAE
 
 🔗 Connect with me on GitHub & LinkedIn
 
