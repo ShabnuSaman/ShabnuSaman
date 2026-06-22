@@ -31,7 +31,7 @@ CI/CD & Git Version Control
 📫 Get in Touch
 
 ✉️ Email: shabnusaman2001@gmail.com
-
+  
 🔗 LinkedIn: linkedin.com/in/shabnu-saman-0050802b6/
 
 📱 Phone: +971 58 913 6277
